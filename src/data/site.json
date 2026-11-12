@@ -1,0 +1,55 @@
+{
+  "name": "Voyager",
+  "description": "渋谷を拠点に、ITエンジニアの育成と技術者の提供を行います。",
+  "nav": [
+    {
+      "label": "私たちについて",
+      "href": "index.html#about"
+    },
+    {
+      "label": "特徴",
+      "href": "index.html#strengths"
+    },
+    {
+      "label": "お知らせ",
+      "href": "index.html#news"
+    },
+    {
+      "label": "事業内容",
+      "href": "business.html",
+      "key": "business"
+    },
+    {
+      "label": "採用情報",
+      "href": "recruit.html",
+      "key": "recruit"
+    },
+    {
+      "label": "会社概要",
+      "href": "company.html",
+      "key": "company"
+    }
+  ],
+  "cta": {
+    "label": "お問い合わせ",
+    "href": "index.html#contact"
+  },
+  "footerNav": [
+    {
+      "label": "事業内容",
+      "href": "business.html"
+    },
+    {
+      "label": "採用情報",
+      "href": "recruit.html"
+    },
+    {
+      "label": "会社概要",
+      "href": "company.html"
+    },
+    {
+      "label": "プライバシーポリシー",
+      "href": "privacy.html"
+    }
+  ]
+}
